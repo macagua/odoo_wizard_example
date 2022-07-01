@@ -29,3 +29,7 @@ This launch a Wizard Example window, like the follow:
 
 Please see [LICENSE](LICENSE.md) file for more License information.
 
+## About
+
+This source code is from the _"Crear un wizard (ventana emergente) en Odoo"_ tutorial from [Introdoo](https://www.youtube.com/watch?v=Yw5Jucprjmw).
+
