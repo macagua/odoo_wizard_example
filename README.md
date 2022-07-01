@@ -4,13 +4,16 @@ The **Contacts** add-on customizations for Odoo 13.0.
 
 Added a Wizard window at ``contacts`` app.
 
+
 ## Tested
 
 - Odoo 13 CE version.
 
+
 ## Install
 
 Go to the Apps icons > Apps > searcha the app with the  name addon, e.g. the ``odoo_wizard_example`` and install it.
+
 
 ## Screenshots
 
@@ -25,11 +28,12 @@ This launch a Wizard Example window, like the follow:
 [![wizard example window](https://github.com/macagua/odoo_wizard_example/raw/main/static/description/screenshot_02.png)](https://github.com/macagua/odoo_wizard_example/)
 
 
+## About
+
+This source code is from the _"Crear un wizard (ventana emergente) en Odoo"_ tutorial from [Introdoo](https://www.youtube.com/watch?v=Yw5Jucprjmw) youtube channel.
+
+
 ## License
 
 Please see [LICENSE](LICENSE.md) file for more License information.
-
-## About
-
-This source code is from the _"Crear un wizard (ventana emergente) en Odoo"_ tutorial from [Introdoo](https://www.youtube.com/watch?v=Yw5Jucprjmw).
 
