@@ -1,0 +1,98 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* odoo_wizard_example
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-01 07:10+0000\n"
+"PO-Revision-Date: 2022-07-01 03:25-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: es\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#. module: odoo_wizard_example
+#: model_terms:ir.ui.view,arch_db:odoo_wizard_example.wizard_example
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. module: odoo_wizard_example
+#: model:ir.model.fields,field_description:odoo_wizard_example.field_wizard_example__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: odoo_wizard_example
+#: model:ir.model.fields,field_description:odoo_wizard_example.field_wizard_example__create_date
+msgid "Created on"
+msgstr "Creado el"
+
+#. module: odoo_wizard_example
+#: model:ir.model.fields,field_description:odoo_wizard_example.field_wizard_example__date_from
+msgid "Date from"
+msgstr "Fecha desde"
+
+#. module: odoo_wizard_example
+#: model:ir.model.fields,field_description:odoo_wizard_example.field_wizard_example__date_to
+msgid "Date to"
+msgstr "Fecha hasta"
+
+#. module: odoo_wizard_example
+#: model:ir.model.fields,field_description:odoo_wizard_example.field_wizard_example__display_name
+msgid "Display Name"
+msgstr "Nombre mostrado"
+
+#. module: odoo_wizard_example
+#: model:ir.actions.act_window,name:odoo_wizard_example.action_menu_wizard
+msgid "Example"
+msgstr "Ejemplo"
+
+#. module: odoo_wizard_example
+#: model:ir.ui.menu,name:odoo_wizard_example.menu_example
+msgid "Example Menu"
+msgstr "Menú Ejemplo"
+
+#. module: odoo_wizard_example
+#: model_terms:ir.ui.view,arch_db:odoo_wizard_example.wizard_example
+msgid "General information about the company"
+msgstr "Información general sobre la empresa"
+
+#. module: odoo_wizard_example
+#: model:ir.model.fields,field_description:odoo_wizard_example.field_wizard_example__id
+msgid "ID"
+msgstr "ID"
+
+#. module: odoo_wizard_example
+#: model:ir.model.fields,field_description:odoo_wizard_example.field_wizard_example____last_update
+msgid "Last Modified on"
+msgstr "Última Modificación el"
+
+#. module: odoo_wizard_example
+#: model:ir.model.fields,field_description:odoo_wizard_example.field_wizard_example__write_uid
+msgid "Last Updated by"
+msgstr "Última actualización por"
+
+#. module: odoo_wizard_example
+#: model:ir.model.fields,field_description:odoo_wizard_example.field_wizard_example__write_date
+msgid "Last Updated on"
+msgstr "Última Actualización el"
+
+#. module: odoo_wizard_example
+#: model:ir.model.fields,field_description:odoo_wizard_example.field_wizard_example__name
+msgid "Name"
+msgstr "Nombre"
+
+#. module: odoo_wizard_example
+#: model_terms:ir.ui.view,arch_db:odoo_wizard_example.wizard_example
+msgid "Wizard"
+msgstr "Asistente"
+
+#. module: odoo_wizard_example
+#: model:ir.model,name:odoo_wizard_example.model_wizard_example
+msgid "Wizard Example"
+msgstr "Asistente de Ejemplo"

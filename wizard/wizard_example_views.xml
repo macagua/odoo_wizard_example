@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <data>
+        <record id="wizard_example" model="ir.ui.view">
+            <field name="name">Wizard Example</field>
+            <field name="model">wizard.example</field>
+            <field name="arch" type="xml">
+                <form string="Wizard">
+                    <group>
+                        <group name="company_dates" string="General information about the company">
+                        </group>
+                        <group>
+                        </group>
+                        <group>
+                        </group>
+                        <group>
+                        </group>
+                        <group>
+                            <field name="date_from"/>
+                        </group>
+                        <group>
+                            <field name="date_to"/>
+                        </group>
+                    </group>
+                    <footer>
+                        <button string="Cancel" class="btn-secondary" special="cancel"/>
+                    </footer>
+                </form>
+            </field>
+        </record>
+
+        <record id="action_menu_wizard" model="ir.actions.act_window">
+            <field name="name">Example</field>
+            <field name="res_model">wizard.example</field>
+            <field name="view_mode">form</field>
+            <field name="view_id" ref="wizard_example"/>
+            <field name="target">new</field>
+        </record>
+
+        <!-- Menu Example -->
+        <menuitem id="menu_example" name="Example Menu"
+            action="action_menu_wizard"
+            parent="contacts.menu_contacts" sequence="4"/>
+
+    </data>
+</odoo>
