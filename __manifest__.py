@@ -1,4 +1,4 @@
-# Copyright 2021 - 2022 Pidela.App
+# Copyright 2022 Leonardo J. Caballero G.
 {
     'name': "Odoo Wizard",
     'summary': "Odoo Wizard Example",
